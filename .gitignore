@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dataset
+*.XPT
+LLCP2017.XPT

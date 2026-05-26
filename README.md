@@ -1,12 +1,11 @@
 # Diabetes Risk Assessment
 
 A web app that estimates a person's risk of type 2 diabetes from a short
-lifestyle and health questionnaire. It returns a **calibrated risk score**, a
-**high-risk or low-risk flag**, and the **top factors** driving that individual's result.
+lifestyle and health questionnaire. It returns a **calibrated risk score**, and the **top factors** driving that individual's result.
 
 **Live app:** https://diabetes-prediction-app-wqd7003.streamlit.app/
 
-> ⚠️ **Not a medical device.** This is an educational screening tool built on
+> ⚠️ IMPORTANT: **Not a medical device.** This is an educational screening tool built on
 > self-reported survey data. It does not diagnose diabetes and is not a substitute
 > for advice from a qualified healthcare professional.
 
